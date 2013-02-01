@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en"> 
+<!-- HEADER -->
+<head><title>SPOT ON SOLUTIONS</title>
+<meta charset="utf-8">
+<title>Spot On</title>
+<meta name="Keywords" content="SPOT-ON, Auton Lab, LIRNEasia, Yazmi, technology, solutions, enterprises, organization, automation, planning, plan, system, affordable, reducing cost, software, upload data, optimal, evaluate input, resource planning, electrical, electronic, communications, project, Nuwan Waidyanatha, Sri Lanka ">
+<meta name="description" content="Spot On Solutions (Private) Limited is a for profit company vested under the Registration of Companies Act in Sri Lanka. The company provides Information and Communications Products and Services">
+<meta name="robots" content="all">
+<link href="cs/main.css" media="screen" rel="stylesheet" type="text/css">
+<link href="cs/payee.css" media="screen" rel="stylesheet" type="text/css">
+
+<script type="text/javascript" src="js/jquery-1.8.3.js"></script>
+<script type="text/javascript" src="js/payee.js"></script>
+</head>
+
+<body><div class="container">
+<div id="logo"><img src="img/spotonlogo01.jpg" alt="SPOT ON LOGO"></div>
+
+<!-- NAVIGATION -->
+
+    <div class="links">
+        <h1>Email: </h1><input type="email" name="uname" id="uname" size="15" maxlength="50"/>
+        <h1>Password: </h1><input type="password" name="pwd" id="pwd" size="15" maxlength="50"/>
+        <h1><input type="button" value="Login" onclick="login()"/></h1>
+    </div><!-- end div links -->
+
+<div id="content">
+<h1>Manage your PAYEE accounts</br></h1>
+
+<nav>
+    <!-- MAIN MENU -->
+    <span><div id="menu"><p>
+        ADMINISTRATION MENU >>> 
+        <a href="index.htm" target="_self"><strong>HOME</strong></a>
+        <a href="transactions.htm" target="_self"><strong>TRANSACTIONS</strong></a>
+        <a href="payee.htm" target="_self"><strong>PAYEES</strong></a>
+        <a href="groups.htm" target="_self"><strong>GROUPS</strong></a>
+        <a href="help.htm" target="_self"><strong>HELP?</strong></a> 
+    </p></div></span>
+</nav>    
+
+    <!-- START SEARCH SECTION -->
+    <table><tr>
+        <td><p>First Name: </p><input type="text" name="fname" id="fname" size="20" maxlength="50"/></td>
+        <td><p>Surname: </p><input type="text" name="lname" id="lname" size="30" maxlength="50"/></td>
+        <td><p>Phone: </p><input type="text" name="phone" id="phone" size="10" maxlength="10"/></td>        
+        <td><p>Enter the criteria</p><input type="button" value="SEARCH" 
+            onclick="search(document.getElementById('fname').value, 
+                document.getElementById('lname').value, 
+                document.getElementById('phone').value)"/>
+    </tr></table>
+    
+    </div><!-- end div links -->
+    
+    <div id="results"></div>
+    <!--END SEARCH SECTION -->
+
+    <!-- START ADD DIALOG -->
+    <h4><input type="button" value="ADD NEW" onclick="add();" /></h4>
+
+    <div class="box">
+        <header>
+            <h1>ADD NEW PAYEE</h1>
+            <a href="#" onclick="add();" ></a>
+        </header>
+        <section>
+            <form>
+                <fieldset>
+                    <label><p>First Name:</p></label>
+                        <input type="text" name="fname" id="addfname" size="20" maxlength="50"/></td>
+                    <label><p>Surname:</p></label>
+                        <input type="text" name="lname" id="addlname" size="30" maxlength="50"/></td>
+                    <label><p>Phone:</p>
+                        </label><input type="text" name="phone" id="addphone" size="10" maxlength="10"/></td>        
+                    <label><p>Click to SAVE new payee</p></label>
+                        <input type="button" value="SAVE" 
+                        onclick="save(document.getElementById('addfname').value, 
+                        document.getElementById('addlname').value, 
+                        document.getElementById('addphone').value)"/>
+                </fieldset>
+            </form>
+        </section>
+    </div>
+                <div id="X" />
+</div>
+<!--
+<div id="topbar">
+		<a class="home" href="http://www.spoton.lk/default.htm"><span>Home</span></a>
+		<a class="login" href="http://www.spoton.lk/PHP/login.php"><span>Log In</span></a>
+		<a class="sitemap" href="http://www.spoton.lk/sitemap.htm"><span>Site Map</span></a>
+  </div>
+-->
+  
+<div id="bottomlinks">
+		<a href="http://www.spoton.lk/default.htm">Home</a> | 
+		<a href="http://www.spoton.lk/spoton.htm">?Spot On</a> | 
+		<a href="http://www.spoton.lk/goals.htm">Our Goals</a> | 
+		<a href="http://www.spoton.lk/summary.htm">Executive Summary</a> |
+		<a href="http://www.spoton.lk/projects.htm"> Projects</a> | 
+		<a href="http://www.spoton.lk/downloads.htm">Downloads</a> | 
+		<a href="http://www.spoton.lk/references.htm">References</a> | 
+		<a href="http://www.spoton.lk/contactus.htm">Contact Us</a>	 
+</div>
+</div>
+</body></html>

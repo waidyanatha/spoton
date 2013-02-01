@@ -1,0 +1,400 @@
+/* Graphics, Design, and Layout by Dacia Closson.  Copyright  Spot On Solutions, 2006.  All Rights Reserved.  Any past, present, or future products of Spot On Solutions are protected and may not be modified in any way without prior written consent of the designer or party responsible for its creation.  This includes removing or modifying our registered logo or name, copyright notice, or any other piece of work belonging to Spot On Solutions.  You may not reproduce this page without the designers written permission. */
+html {
+	height: 100%;
+	width: 100%;
+}
+body {
+	margin: 0px;
+	height: 100%;
+	width: 100%;
+	background-color: #CCCCCC;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 12pt;
+	color: #000000;
+}
+/*-----------Container holds all the objects, creates the left and right margin----------------------*/
+#container {
+	border: 1px solid #999999;
+	margin: 0px;
+	width: 100%;
+}
+/*----------------------------------Content holds all information on page-------------------------------*/
+#content {
+	background-color: #FFFFFF;
+	border: 1px solid #666666;
+	margin: 0pt;
+}
+/*----------------- The following 3 styles are for the entire page, not specvific to any div--------*/
+a {
+	color: #0000CC;
+	text-decoration: underline;
+	font-size: 12pt;
+	margin-top: 5pt;
+	margin-right: 5pt;
+	margin-bottom: 5pt;
+	margin-left: 20pt;
+}
+p {
+	font-size: 12pt;
+	margin: 10pt;
+	color: #000000;
+	font-family: "Times New Roman", Times, serif;
+}
+h1 {
+	font-size: 12pt;
+	color: #000000;
+	display: block;
+	margin: 50px;
+}
+/*---------------------------------------------------------------------------------------------------------------------*/
+#logo {
+	position: absolute;
+	top: 0px;
+	right: 0px;
+}
+/*----------------------------------------------------------------------------------------------------------------------*/
+/*div that contains the links to site navigation*/
+#links {
+	background-color: #6386A2;
+	height: 360px;
+	width: 140px;
+	float: right;
+	margin-top: 10px;
+	margin-right: 10px;
+	clear:none;
+	border: 1px solid #666666;
+	padding-top: 160px;
+	background-image: url(../images/main/links/bg.jpg);
+	background-repeat: no-repeat;
+	background-position: 0px 145px;
+	display: none;
+}
+/*----------------------------------------------------------------------------------------------------------------*/
+/*Links to secondary pages, thier behaviors and a span for non css users*/
+a.spoton{
+	background-image: url(../images/main/links/spoton.jpg);
+	background-repeat: no-repeat;
+	height: 17px;
+	width: 140px;
+	display: block;
+	margin-top: 0px;
+}
+a.spoton:hover{
+	background-image: url(../images/main/links/behavior/spoton.jpg);
+	background-repeat: no-repeat;
+}
+a.spoton span{
+	display: none;
+}
+/*------------*/
+a.whatis{
+	background-image: url(../images/main/links/whatis.jpg);
+	background-repeat: no-repeat;
+	height: 17px;
+	width: 140px;
+	display: block;
+	margin-top: 10px;
+}
+a.whatis:hover{
+	background-image: url(../images/main/links/behavior/whatisspot.jpg);
+	background-repeat: no-repeat;
+}
+a.whatis span{
+	display: none;
+}
+/*------------*/
+a.services{
+	background-image: url(../images/main/links/services.jpg);
+	background-repeat: no-repeat;
+	height: 17px;
+	width: 140px;
+	display: block;
+	margin-top: 5px;
+}
+a.services:hover{
+	background-image: url(../images/main/links/behavior/services.jpg);
+	background-repeat: no-repeat;
+}
+a.services span{
+	display: none;
+}
+/*------------*/
+a.whoarewe{
+	background-image: url(../images/main/links/whoarewe.jpg);
+	background-repeat: no-repeat;
+	height: 17px;
+	width: 140px;
+	display: block;
+	margin-top: 5px;
+}
+a.whoarewe:hover{
+	background-image: url(../images/main/links/behavior/whoarewe.jpg);
+	background-repeat: no-repeat;
+}
+a.whoarewe span{
+	display: none;
+}
+/*------------*/
+a.goals{
+	background-image: url(../images/main/links/goals.jpg);
+	background-repeat: no-repeat;
+	height: 17px;
+	width: 140px;
+	display: block;
+	margin-top: 10px;
+}
+a.goals:hover{
+	background-image: url(../images/main/links/behavior/goals.jpg);
+	background-repeat: no-repeat;
+}
+a.goals span{
+	display: none;
+}
+/*------------*/
+a.summary{
+	background-image: url(../images/main/links/summary.jpg);
+	background-repeat: no-repeat;
+	height: 28px;
+	width: 140px;
+	display: block;
+	margin-top: 10px;
+}
+a.summary:hover{
+	background-image: url(../images/main/links/behavior/summary.jpg);
+	background-repeat: no-repeat;
+}
+a.summary span{
+	display: none;
+}
+/*------------*/
+a.projects{
+	background-image: url(../images/main/links/projects.jpg);
+	background-repeat: no-repeat;
+	height: 17px;
+	width: 140px;
+	display: block;
+	margin-top: 10px;
+}
+a.projects:hover{
+	background-image: url(../images/main/links/behavior/projects.jpg);
+	background-repeat: no-repeat;
+}
+a.projects span{
+	display: none;
+}
+/*------------*/
+a.downloads{
+	background-image: url(../images/main/links/downloads.jpg);
+	background-repeat: no-repeat;
+	height: 17px;
+	width: 140px;
+	display: block;
+	margin-top: 10px;
+}
+a.downloads:hover{
+	background-image: url(../images/main/links/behavior/downloads.jpg);
+	background-repeat: no-repeat;
+}
+a.downloads span{
+	display: none;
+}
+/*------------*/
+a.references{
+	background-image: url(../images/main/links/references.jpg);
+	background-repeat: no-repeat;
+	height: 17px;
+	width: 140px;
+	display: block;
+	margin-top: 10px;
+}
+a.references:hover{
+	background-image: url(../images/main/links/behavior/references.jpg);
+	background-repeat: no-repeat;
+}
+a.references span{
+	display: none;
+}
+/*------------*/
+a.contactus{
+	background-image: url(../images/main/links/contactus.jpg);
+	background-repeat: no-repeat;
+	height: 17px;
+	width: 140px;
+	display: block;
+	margin-top: 10px;
+}
+a.contactus:hover{
+	background-image: url(../images/main/links/behavior/contactus.jpg);
+	background-repeat: no-repeat;
+}
+a.contactus span{
+	display: none;
+}
+/*-----------------------------------------------------------------------------------------------------------*/
+/*Links to HOME , LOG IN and SITE MAP */
+#topbar {
+	background-image: url(../images/main/toplinks.png);
+	background-repeat: no-repeat;
+	display: none;
+}
+a.home{
+	background-image: url(../images/main/links/home.gif);
+	background-repeat: no-repeat;
+	height: 15px;
+	width:81px;
+	display: block;
+	position: absolute;
+	left: 15px;
+	top:5px;
+}
+a.home:hover{
+	background-image: url(../images/main/links/behavior/home.gif);
+	background-repeat: no-repeat;
+}
+a.home span{
+	display: none;
+}
+a.login{
+	background-image: url(../images/main/links/login.gif);
+	background-repeat: no-repeat;
+	height: 15px;
+	width: 99px;
+	display: block;
+	position: absolute;
+	left: 100px;
+	top: 5px;
+}
+a.login:hover{
+	background-image: url(../images/main/links/behavior/login.gif);
+	background-repeat: no-repeat;
+}
+a.login span{
+	display: none;
+}
+a.sitemap{
+	background-image: url(../images/main/links/sitemap.gif);
+	background-repeat: no-repeat;
+	height: 15px;
+	width: 115px;
+	display: block;
+	position: absolute;
+	left: 200px;
+	top: 5px;
+}
+a.sitemap:hover{
+	background-image: url(../images/main/links/behavior/sitemap.gif);
+	background-repeat: no-repeat;
+}
+a.sitemap span{
+	display: none;
+}
+/*-----------------------------------------------------------------------------------------------------------*/
+/*------The following are the 2 columns colored purple, green ----------*/
+#col1head{
+	display: block;
+	background-color: #FFFFFF;
+	border: none;
+	margin: 10pt;
+	}
+#col1head p{
+	font-size: 12pt;
+	color: #000000;
+	margin-left: 15pt;
+}
+/*----------------------------------------------*/
+#col1body{
+	display: block;
+	background-color: #FFFFFF;
+	border: none;
+	margin: 10pt;
+	}
+#col1body p{
+	font-size: 12pt;
+	color: #000000;
+	margin-left: 15pt;
+}
+/*----------------------------------------------*/
+#col2head {
+	border: none;
+	display: block;
+	margin: 10pt;
+	}
+#col2head p{
+	font-size: 12pt;
+	margin-left: 15pt;
+	color: #000000;
+}
+#col2head img{
+	float: right;
+	border: 1px solid #3D7262;
+	margin: 1px;
+	display: none;
+}
+/*----------------------------------------------*/
+#col2body {
+	border: none;
+	display: block;
+	margin: 10pt;
+	}
+#col2body p{
+	font-size: 12pt;
+	margin-left: 15pt;
+	color: #000000;
+}
+#col2body img{
+	float: right;
+	border: 1px solid #3D7262;
+	margin: 1px;
+	display: none;
+}
+/*------------------------------------------------------
+#col3 {
+	float: none;
+	border: none;
+	display: block;
+	font-size: 12pt;
+	color: #000000;
+	margin: 10pt;
+	}
+#col3 p{
+	font-size: 12pt;
+	color: #000000;
+	margin-left: 15pt;
+}
+
+--------------------------------------------------------------------------------*/
+/*Text links at bottom of page*/
+#bottomlinks {
+	background-color: #6386A2;
+	height: 16px;
+	margin: 0px;
+	text-align: center;
+	color: #FFFFFF;
+	width: 100%;
+	position: absolute;
+	left: 0px;
+	bottom: 0px;
+	display: none;
+}
+#bottomlinks a {
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+#bottomlinks a:hover {
+	color: #4C3386;
+}
+#search {
+	background-color: #FFFFFF;
+	margin: 10px;
+	border: 1px solid #4C3386;
+	text-align: center;
+	height: 50px;
+	width: 110px;
+	display: none;
+}
+h2 {
+	height: 30px;
+	width: 175px;
+}
+

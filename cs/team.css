@@ -1,0 +1,137 @@
+
+/*------The following are the 2 columns colored purple, green ----------*/
+#col1head{
+	width: 300px;
+	float: left;
+	border: 1px solid #FFFFFF;
+	background-color: #DAC9D6;
+	height: 30px;
+	padding: 0px;
+	}
+#col1head p{
+	font-size: 11px;
+}
+#col1head h3{
+	background-color:#AA86A2;
+	margin: 0px;
+	}
+#col1head img {
+	height: 30px;
+	width: 250px;
+	margin-top: 2px;
+	margin-bottom: 2px;
+	margin-left: 7px;
+}
+/*----------------------------------------------*/
+#col1body{
+	width: 300px;
+	float: left;
+	border: 1px solid #FFFFFF;
+	background-color: #DAC9D6;
+	height: 295px;
+	padding: 0px;
+	}
+#col1body p{
+	font-size: 11px;
+}
+#col1body h3{
+	background-color:#AA86A2;
+	margin: 0px;
+	}
+#col1body img {
+	height: 190px;
+	width: 280px;
+	margin-top: 2px;
+	margin-bottom: 2px;
+	margin-left: 2px;
+}
+/*----------------------------------------------*/
+#col2head {
+	width: 450px;
+	border: 1px solid #FFFFFF;
+	background-color: #D1E7E0;
+	float: left;
+	height: 30px;
+	}
+#col2head h3 {
+	background-color:#86BFAE;
+	margin: 0px;
+	}
+#col2head p{
+	font-size: 11px;
+}
+#col2head img {
+	height: 30px;
+	width: 250px;
+	margin-top: 2px;
+	margin-bottom: 2px;
+	margin-left: 20px;
+}
+/*----------------------------------------------*/
+#col2body {
+	width: 480px;
+	border: 1px solid #FFFFFF;
+	background-color: #D1E7E0;
+	float: left;
+	height: 300px;
+	}
+
+#col2body p{
+	font-size: 14px;
+	margin-left: 10px;
+}
+#col2body img {
+	height: 250px;
+	width: 250px;
+	margin-top: 2px;
+	margin-bottom: 2px;
+	margin-left: 20px;
+}
+
+/*-------------- TABLE FORMATTING ----------------------------------------------*/
+#table{
+    width: 760px;
+    float: left;
+    border: 1px solid #FFFFFF;
+    background-color: #FFFFFF;
+    padding: 0px;
+    }
+
+#table p{
+    font-size: 14px;
+    font-family:neosans;
+    margin: 5px 5px;
+    color: #4D6880;
+    padding-top: 0px;
+    padding-bottom: 1px;
+    line-height:20px;
+}
+
+#table img{
+    height: 50px;
+    width: 50px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 5px;
+}
+
+#table span{text-decoration: underline;}
+
+#large{
+    font-size: 14px;
+    font-family:neosans;
+    margin: 5px 5px;
+    color: #4D6880;
+    padding-top: 0px;
+    padding-bottom: 1px;
+    line-height:20px;
+}
+
+#large img{
+    height: 100px;
+    width: 100px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 1px;
+}
+/*------------------------------------------------------------------------------*/
