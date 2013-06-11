@@ -1,0 +1,55 @@
+/*-------------- TABLE FORMATTING ----------------------------------------------*/
+#table{
+    width: 760px;
+    float: left;
+    border: 1px solid #FFFFFF;
+    background-color: #FFFFFF;
+    padding: 0px;
+    }
+
+#table p{
+    font-size: 14px;
+    font-family:neosans;
+    margin: 5px 5px;
+    color: #4D6880;
+    padding-top: 0px;
+    padding-bottom: 1px;
+    line-height:20px;
+}
+
+#table img{
+    height: 100px;
+    width: 100px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 5px;
+}
+
+#table span{text-decoration: underline;}
+
+#large{
+    font-size: 14px;
+    font-family:neosans;
+    margin: 5px 5px;
+    color: #4D6880;
+    padding-top: 0px;
+    padding-bottom: 1px;
+    line-height:20px;
+}
+
+#large img{
+    height: 100px;
+    width: 100px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 1px;
+}
+#partner_logos {
+    background-color: #fff;
+    border: 2px solid #6386A2;
+    margin-top: 5px;
+    width:502px;
+    margin-left: 1px;
+    
+}
+/*------------------------------------------------------------------------------*/

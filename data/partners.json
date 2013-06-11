@@ -1,0 +1,52 @@
+{
+    "partners": [
+        {
+            "index": 0,
+            "category": "policy",
+            "name": "LIRNEasia",
+            "desc" : "Think Tank",
+            "url": "http://www.lirneasia.net/",
+            "logo": "img/part/lirneasia.jpg"
+        },
+        {
+            "index": 1,
+            "category": "CBO",
+            "name": "Sarvodaya",
+            "desc" : "Community-based Organization",
+            "url": "http://www.sarvodaya.org/",
+            "logo": "img/part/sarvo_logo.png"
+        },
+        {
+            "index": 2,
+            "category": "FOSS",
+            "name": "Sahana Software Foundation",
+            "desc" : "Humanitarian Software Organizations",
+            "url": "http://www.sahanafoundation.org/",
+            "logo": "img/part/sahana.jpg"
+        },
+        {
+            "index": 3,
+            "category": "FOSS",
+            "name": "Freedom Fone",
+            "desc" : "Interactive Voice Response System",
+            "url": "http://www.freedom.org/",
+            "logo": "img/part/ff_logo.jpg"
+        },
+        {
+            "index": 4,
+            "category": "Academic",
+            "name": "Carnegie Mellon University's Auton Lab",
+            "desc" : "Business Intelligence",
+            "url": "http://www.autonlab.org/",
+            "logo": "img/part/autonlab.png"
+        },
+        {
+            "index": 5,
+            "category": "Private",
+            "name": "Yazmi LLC",
+            "desc" : "Satellite communications provider",
+            "url": "http://www.yazmi.com/",
+            "logo": "img/part/autonlab.png"
+        }
+    ]
+}

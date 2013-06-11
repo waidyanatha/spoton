@@ -1,0 +1,14 @@
+#col1body{
+	width: 797px;
+	float: right;
+	border: 1px solid #FFFFFF;
+	background-color: #DAC9D6;
+	height: 505px;
+	padding: 0px;
+        margin-top: 63px;
+        
+        right: 0;
+    bottom: 0px;
+    overflow: scroll;
+    -webkit-overflow-scrolling: touch;
+	}

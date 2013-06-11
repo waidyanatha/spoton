@@ -1,0 +1,195 @@
+{
+    "products": [
+        {
+            "category": "mBank",
+            "menuname": "Mobile-Payments",
+            "menuindex": 0,
+            "summary": {
+                "title": "BE THE TRENDSETTER - LET YOUR ANDROID OR iOS/APPLE PHONE PROCESS YOUR PAYMENTS",
+                "description": "<font color='blue'><b>Switch over to Hypna MOBILE PAYMENT System - </b></font><font color='blue'>the radical change in the industry that is cost effective, convenient, with hassle free maintenance, enables business intelligence and secure transactions.</font><br/> Minimising operational expenses in your business establishment is one of your top priorities. Accordingly, you consider making that high investment on Point of Sales (POS) terminal equipment. A commercial policy, where your merchants must maintain a particular turn over limit for them to be eligible to acquire a POS terminal is another requirement. <br/>A POS device that is simple, cost effective, with minimal maintenance and which enables secure transaction process is what you need.<br/> Then switch over to Hypna point of sales device. You only need your Android or iOS/Apple phone to start off Hypna."
+            },
+            "demoTitle": "",
+            "demoURL": "",
+            "imgTitle": "POS",
+            "imgURL": "img/prod/pos.png",       
+            "subProd": [
+                {
+                    "index": 0,
+                    "prodURL": "img/prod/pos.png",            
+                    "desc": "<i><b><font color='#4C3386'>How to go about::</font></b></i> Simply install the Hypna mobile soft ware, plug the Magnetic Strip Reader or Chip-n-Pin reader to the mobile phone's audio jack and start the mobile payment process. For printing receipts add on the Bluetooth Printer. If it's a signature, then Hypna can capture it with the smart phone handwriting feature."
+                },
+                {
+                    "index": 1,
+                    "prodURL": "img/prod/pos.png",            
+                    "desc": "<i><b><font color='#4C3386'>Guaranteed secure transaction::</font></b></i> We use SSL Virtual Private Networks to transmit data. Authentication is with MD5/SHA Encryption. Records are stamped with IMEI# and SIM#. The Hypna web service REST-ful APIs easily integrates with any Enterprise Resource Planning (ERP) solution. Hypna complies with Payment Card Industry Standard and has Europe Visa Master Card certification. "
+                },
+                {
+                    "index": 2,
+                    "prodURL": "img/prod/pos.png",            
+                    "desc": "<i><b><font color='#4C3386'>Stay informed::</font></b></i> The business analytics tool provides you transaction data on a routine basis. This feature will help you detect any unfavourable situations in your business and for quick responding to maintain the profitability in your business."
+                },
+                {
+                    "index": 3,
+                    "prodURL": "img/prod/pos.png",            
+                    "desc": "<i><b><font color='#4C3386'>Easy maintenance::</font></b></i> Maintenance is hassle free and can be attended to by the local mobile repair shop as Hypna is only an add on software to your mobile. You also have the added benefit of a warrantee for the plug-in components like the Magnetic Strip Reader, Chip-n-Pin reader, and Bluetooth Printer if you have obtained your mobile phone from Spot On."
+                }
+            ]
+        },        
+        {
+            "category": "disaster",
+            "menuname": "DISASTER",
+            "menuindex": 1,
+            "summary": {
+                "title": "<font color='lightgrey'>SPOT - </font><font color='orange'>SAMBRO, STRIX, & LITORIA</font> :: for Emergency Communications",
+                "description": "We provide <b>public</b> and <b>closed user group</b> alerting solutions for <b>Governments</b>, <b>Private Entities</b>, and <b>Non-Governmental Organizations</b>. Our life-saving solutions are <a href='http://www.incident.com/cookbook/'>Common Alerting Protocol-enabled</a> for <b>consistent</b> and <b>complete</b> messaging. The comprehensive solutions are designed for <b>multi-agency emergency coordination</b> and <b>location-based risk information dissemination</b> over a multitude of technologies</b>"
+            },
+            "demoTitle": "Click to access the SAMBRO DEMO",
+            "demoURL": "http://www.samanathetha.lk/sahana-demo",
+            "imgTitle": "SAMBRO",
+            "imgURL": "img/prod/sambro.png",            
+            "subProd": [
+                {
+                    "index": 0,
+                    "prodURL": "img/prod/sambro.png",            
+                    "desc": "<i><b><font color='#4C3386'>SAMBRO ::</font></b></i> is a <a href='http://www.sahanafoundation.org/'>SAHANA FOUNDATION</a> supported Free and Open Source Humanitarian Software. We provide a secure web interface for issuing alerts over multiple channels: satellite multi-cast, Cell Broadcast, SMS, Email, Twitter, Facebook, Google, Web, RSS/Atmo feeds, and Interactive Voice Response."
+                },
+                {
+                    "index": 1,
+                    "prodURL": "img/prod/yazmi.png",            
+                    "desc": "<i><b><font color='#4C3386'>ASSET ::</font></b></i> Addressable Solution for Satellite Enabled Terminals are based on <a href='http://www.yazmi.com/'>YAZMI</a> satellite communications for broadcasting audio, video, or text -based crisis information. The wide-area satellite footprint has no coverage limitations. When terrestrial technologies are victims of a disaster, the satellite is still active for sharing crisis response and situational information with emergency coordinators and effected communities"
+                },
+                {
+                    "index": 2,
+                    "prodURL": "img/prod/ff.png",
+                    "desc": "<i><b><font color='#4C3386'>LITORIA ::</font></b></i> is a <a href='http://www.freedomfone.org/'>FREEDOM-FONE</a> Interactive Voice solution customized for Alerting and Situational-Reporting. It is suitable for illiterate communities and emergency responders that are limited by non-Latin scripting text-based ICT solutions. Process is as simple as dialing a number then selecting a voice menu to receive risk information or report a situation."
+                }
+            ]
+        },
+        {
+            "category": "data-mining",
+            "menuname": "DATA MINING",
+            "menuindex": 2,
+            "summary": {
+                "title": "<font color='lightgrey'>SPOT - </font><font color='orange'>PANTHERA</font> :: datamining, predictive, and visual analytics",
+                "description": "An interactive tool for spatial and temporal analysis of large data sets."
+            },
+            "demoTitle": "Click to view the Biosurveillance Poster",
+            "demoURL": "img/prod/rtbp_poster.pdf",
+            "imgTitle": "T-Cube Web Interface",
+            "imgURL": "img/prod/tcube.png",            
+            "subProd": [
+                {
+                    "index": 0,
+                    "prodURL": "img/prod/tcube.png",            
+                    "desc": "Comprehensive analyzes prevent missing clues,  help focus attention,  enable effective actions"
+                },
+                {
+                    "index": 1,
+                    "prodURL": "img/prod/tcube.png",            
+                    "desc": "summarize and visualize data to detect and validate unexpected Patterns"
+                },
+                {
+                    "index": 2,
+                    "prodURL": "img/prod/tcube.png",            
+                    "desc": "Ability to monitor mutivariate attributes"
+                },
+                {
+                    "index": 3,
+                    "prodURL": "img/prod/tcube.png",            
+                    "desc": "Faster detections, better situational awareness, rapid response ability."
+                }
+            ]
+        },
+        
+        {
+            "category": "mhealth",
+            "menuname": "DISASTER",
+            "menuindex": 3,
+            "summary": {
+                "title": "<font color='lightgrey'>SPOT - </font><font color='orange'>NEOTRYGON</font> :: Health Data System in support of Ultra-safe Populations",
+                "description": "HEADSUP is a set of ICT components designed to capture medical records at the Point of Care. The mS-cube suit of mobile applications are developed to support Sentinel Site Surveillance activities"
+            },
+            "demoTitle": "Hospital Issues",
+            "demoURL": "complaints.htm",
+            "imgTitle": "HEADSUP",
+            "imgURL": "img/prod/four_tech.jpg",            
+            "subProd": [
+                {
+                    "index": 0,
+                    "prodURL": "img/prod/four_tech.jpg",            
+                    "desc": "first health world"
+                },
+                {
+                    "index": 1,
+                    "prodURL": "img/prod/four_tech.jpg",            
+                    "desc": "second health world"
+                }
+            ]
+        },
+        {
+            "category": "satellite",
+            "menuname": "SATELLITE",
+            "menuindex": 4,
+            "summary": {
+                "title": "<font color='lightgrey'>SPOT - </font><font color='orange'>STRIX</font> :: Addressable Miniature Satellite Receivers for Location-based Services",
+                "description": "Simultaneously broadcast high-quality video, audio, and text/graphical data directly to Android Tablets, Windows Laptops, Signage Displays, or corporate high volume multicast data solutions"
+            },
+            "demoTitle": "Click to view ASSETT poster",
+            "demoURL": "img/prod/Yazmi_Tablet Poster_Final.pdf",
+            "imgTitle": "Solutions",
+            "imgURL": "img/prod/yazmi.png",            
+            "subProd": [
+                {
+                    "index": 0,
+                    "prodURL": "img/prod/yazmi.png",            
+                    "desc": "Alerting Solutions with Satellite-enabled Tablets (ASSET)"
+                },
+                {
+                    "index": 1,
+                    "prodURL": "img/prod/strix_signage_solutions.png",            
+                    "desc": "Digital Signage Solutions"
+                }
+            ]
+        },        
+        {
+            "category": "ivr",
+            "menuname": "IVR",
+            "menuindex": 5,
+            "summary": {
+                "title": "<font color='lightgrey'>SPOT - </font><font color='orange'>LITORIA</font> :: <a href='http://www.freedomfone.org'>Freedom Fone</a> two-way Interactive Voice Response (IVR) system",
+                "description": "The voice-enabled technology is serving those falling short in computer literacy and are underserved by non-latin scripting technologies, making them part of the digital habitat."
+            },
+            "demoTitle": "Click to view the Book",
+            "demoURL": "",
+            "imgTitle": "ASSET",
+            "imgURL": "img/prod/ff.png",            
+            "subProd": [
+                {
+                    "index": 0,
+                    "prodURL": "img/prod/ff.png",            
+                    "desc": "Quality -  "
+                },
+                {
+                    "index": 1,
+                    "prodURL": "img/prod/ff.png",            
+                    "desc": "Scalability"
+                },
+                {
+                    "index": 2,
+                    "prodURL": "img/prod/ff.png",            
+                    "desc": "Sustainability - "
+                },
+                {
+                    "index": 3,
+                    "prodURL": "img/prod/ff.png",            
+                    "desc": "Uniformity - "
+                },
+                {
+                    "index": 4,
+                    "prodURL": "img/prod/ff.png",            
+                    "desc": "Ubiquity - "
+                }
+            ]
+        }        
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "demos": [
+        {
+            "category": "health",
+            "title": "HEADSUP",
+            "summary": "To login to the demo, <b>username=me@demo.lk</b> and <b>password=demo.lk</b> <br> The demo will allow you to add/edit a payee, add the payee to a group. Thereafter, you can use your Androin POS app to send in a transaction, then view the transaction in the History.",
+            "demoURL": "http://www.samanathetha.lk/sahana-demo",
+            "imgURL": "img/prod/four_tech.jpg"
+        },
+        {
+            "category": "POS",
+            "title": "POS-on-da-SPOT",
+            "summary": "To login to the demo, <b>username=me@demo.lk</b> and <b>password=demo.lk</b> <br> The demo will allow you to add/edit a payee, add the payee to a group. Thereafter, you can use your Androin POS app to send in a transaction, then view the transaction in the History.",
+            "demoURL": "https://202.69.197.115:9443/hypna/index.htm",
+            "imgURL": "img/prod/pos.png"
+        }
+    ]
+}

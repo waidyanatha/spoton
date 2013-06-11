@@ -1,0 +1,186 @@
+{
+    "team": [
+        {
+            "index": 0,
+            "category": "leadership",
+            "name": "Nuwan Waidyanatha",
+            "designation" : "Chief Executive Officer",
+            "expertise": "Operations Research with Computer and Systems Engineering",
+            "profImg" : "img/prof/nuwan2.jpg",
+            "summary": "He is the Chief Executive Officer and Founder of Spot On Solutions. His expertise are in Operations Research and Computer Engineering. Nuwan has been engaging in ICT work, in the Asia Pacific Region since 2003 with the first, 2001-2003, accomplishments of working as a software engineer for /APS Healthcare/ in the USA. Thereafter, he was employed by the Hayleys Group of Companies before venturing out to establish an independent entity of his own. With the think-tank: LIRNEasia, he managed various emergency communication and electronic health related research projects and continues to serve as a <a href='http://lirneasia.net/about/profiles/nuwan-waidyanatha/'>Senior Research Fellow</a> in various LIRNEasia contracts. His wealth of experience includes working with and contributing to developments in information standardization. He is the Chair of the Free and Open Source Sahana Standards and Interoperability Project Management Committee. He also serves as a voting member of the Organization for the Advancement of Structured Information Standards.",
+            "profURL": "NULL",
+            "cvTitle": "NULL",
+            "cvURL": "http://lirneasia.net/wp-content/uploads/2007/09/waidy_LA_resume_Jan20111.pdf"
+        },
+        {
+            "index": 1,
+            "category": "advisory",
+            "name": "Rohan Samarajiva (PhD)",
+            "designation" : "Chief ICT Policy Advisor",
+            "expertise": "ICT Policy Entreprenuer",
+            "profImg" : "img/prof/rohan.jpg",
+            "summary": "He is the founding Chair of <a href='http://lirneasia.net/about/'>LIRNEasia</a>, an ICT policy and regulation think tank active across 12 emerging Asian economies. Samarajiva was Team Leader at the Sri Lanka Ministry for Economic Reform, Science and Technology (2002-04) responsible for infrastructure reforms, including participation in the design of the e-Sri Lanka Initiative. He was Director General of Telecommunications in Sri Lanka (1998-99), a founder director of the ICT Agency of Sri Lanka (2003-05), Honorary Professor at the University of Moratuwa in Sri Lanka (2003-04), Visiting Professor of Economics of Infrastructures at the Delft University of Technology in the Netherlands (2000-03) and Associate Professor of Communication and Public Policy at the Ohio State University in the US (1987-2000).  Samarajiva was Policy Advisor to the Ministry of Post and Telecom in Bangladesh (2007-09). He serves as Senior Advisor to Sarvodaya (Sri Lanka’s largest community based organization) on ICT matters.  Samarajiva is a Board Member of Communication Policy Research south, an initiative to identify and foster policy intellectuals in emerging Asia. He is a member of the Board and former Chair of the Lanka Software Foundation and Board Member of the International Communication Association. He serves on the editorial boards of seven academic journals.",
+            "profURL": "NULL",
+            "cvTitle": "NULL",
+            "cvURL": "http://lirneasia.net/wp-content/uploads/2007/12/CVApril1long.pdf"
+        },
+        {
+            "index": 2,
+            "category": "administration",
+            "name": "Binendra Rajatheja",
+            "designation" : "Accountant",
+            "expertise": "Business Administration/Accounting and Computer Science",
+            "profImg" : "img/prof/binu.jpg",
+            "summary": "NULL",
+            "profURL": "NULL",
+            "cvTitle": "NULL",
+            "cvURL": "NULL"
+        },
+        {
+            "index": 3,
+            "category": "advisory",
+            "name": "Srinivesan Rangarajan (PhD)",
+            "designation" : "Satellite Systems Engineer",
+            "expertise": "Satellite Communications and Systems Engineering",
+            "profImg" : "img/prof/rangarajan.png",
+            "summary": "Dr. S. Rangarajan  is a satellite industry veteran with 30+ years of experience in successive leadership roles in the public and private sectors. He has successfully adapted the satellite radio infrastructure to design diverse solutions for data multicasting, distance education and early warning delivery in the developing world.  In particular, he has an abiding interest in the development of innovations that seek to provide better quality and affordable solutions for rural and remote regions.Dr. Rangarajan is a Senior Vice President at Yazmi USA.  He was earlier the Program Director of INSAT at the Indian Space Research Organization (ISRO), and pioneered various satellite-based applications, including the first satellite-based telemedicine project in India. He was a member of the team that formulated the National Telecom Policy (NTP) in 1998. He has a PhD in Physics from Tata Institute of Fundamental Research, Mumbai, India.",
+            "profURL": "NULL",
+            "cvTitle": "NULL",
+            "cvURL": "NULL"
+        },
+        {
+            "index": 4,
+            "category": "consultant",
+            "name": "Chamindu Sampath (MBBS)",
+            "designation" : "Health Practices Consultant",
+            "expertise": "Medicine and Health Informatics",
+            "profImg" : "img/prof/chamindu.jpg",
+            "summary": "He is a Medical Doctor by profession. ",
+            "profURL": "NULL",
+            "cvTitle": "NULL",
+            "cvURL": "NULL"
+        },
+        {
+            "index": 5,
+            "category": "advisory",
+            "name": "Brenda Burrell",
+            "designation" : "Technical Director Voice Technology",
+            "expertise": "Interactive Voice Response Sysmtes",
+            "profImg" : "img/prof/sambro.png",
+            "summary": "She is a Zimbabwean information activist and co-founder of <a href='http://www.kubatana.net/'>The Kubatana Trust of Zimbabwe</a>. She currently leads the Freedom Fone project, an open source software development initiative focusing on two-way communication with mobile phone users via interactive voice menus, SMS and voicemail. Brenda is motivated to bridge the gaps that separate people from the information they need to stay informed, engaged, productive and healthy. To this end her work integrates technology to amplify issues, encourage feedback and crowd source information. She sits on the board of directors of the Kiwanja Foundation.",
+            "profURL": "NULL",
+            "cvTitle": "NULL",
+            "cvURL": "NULL"
+        },
+        {
+            "index": 6,
+            "category": "consultant",
+            "name": "Roshan Hewapathirana (MBBS)",
+            "designation" : "eHealth Specialist",
+            "expertise": "Medicine and Bioinformatics",
+            "profImg" : "img/prof/sambro.png",
+            "summary": "He is a Medical Doctor with an extensive background in Bioinformatics. After graduating from the Faculty of Medicine, University of Colombo Sri Lanka, Roshan continued his education in eHealth graduating with a MSc in Bioinformatics from the Post Graduate Institute of Medicine, Sri Lanka. Roshan serves on several eHealth technical committees and is a Senior Lecturer at the Post Graduate Institue of Medicine (Sri Lanka). Currently he is reading for a PhD in Bioinformatics at Stockholm University in Norweigh.",
+            "profURL": "NULL",
+            "cvTitle": "NULL",
+            "cvURL": "NULL"
+        },
+	{
+            "index": 7,
+            "category": "engineering",
+            "name": "sumudu Jayasundara",
+            "designation" : "Junior Analyst Programmer",
+            "expertise": "Information Technology Engineering",
+            "profImg" : "img/prof/sumudu.jpg",
+            "summary": "NULL",
+            "profURL": "NULL",
+            "cvTitle": "NULL",
+            "cvURL": "NULL"
+        },
+        {
+	
+            "index": 8,
+            "category": "advisory",
+            "name": "Rivi Wickramaarachchi",
+            "designation" : "Technical Director Mobile Payments",
+            "expertise": "Banking and Acquiring Systems",
+            "profImg" : "img/prof/sambro.png",
+            "summary": "NULL",
+            "profURL": "NULL",
+            "cvTitle": "NULL",
+            "cvURL": "NULL"
+        },
+        {
+            "index": 9,
+            "category": "engineering",
+            "name": "Tharaka Wilfred",
+            "designation" : "Analyst Programmer",
+            "expertise": "Information Technology Engineering",
+            "profImg" : "img/prof/tharaka.jpg",
+            "summary": "He is an analyst programmer and systems administrator working as a consultant for Spot-On. His software development with expertise are in Java Enterprise architecture programming. Tharaka was contracted as a research assistant and analyst programmer. During this period, he made several contributions to the Sahana Free and Open Software, then tested it in the field with Community Emergency Response Team members, in Sri Lanka. The project integrated voice-enabled technologies to interlink last-mile communities with the incident management center using the Freedom Fone Interactive Voice Response System. He is involved in mission critical information management systems research and development; especially applying Artificial Intelligence for decision support. He graduated with a BscIT in Information Technology from University of Moratuwa, Sri Lanka.",
+            "profURL": "",
+            "cvTitle": "",
+            "cvURL": "NULL"
+        },
+        {
+            "index": 10,
+            "category": "engineering",
+            "name": "Manoj Silva",
+            "designation" : "Network and Systems Engineer",
+            "expertise": "Communications Network Engineering and Disaster Management",
+            "profImg" : "img/prof/manoj2.png",
+            "summary": "He is a National Coordinator & Operation Manager serving at the <a href='http://www.sarvodaya.org/'>Sarvodaya</a> Community Disaster Management Center (SCDMC), Sri Lanka (2006 to present). Mr.Silva worked as a coordinator in a voice-enabled emergency data exchange project for Sarvodaya. Also he has a good technical sound in community based disaster management (CBRM) in village level implementation, trainings, and research.",
+            "profURL": "",
+            "cvTitle": "NULL",
+            "cvURL": "NULL"
+        },
+        {
+            "index": 11,
+            "category": "consultant",
+            "name": "Shrimathi",
+            "designation" : "Charted Accountant",
+            "expertise": "Accounting",
+            "profImg" : "img/prof/sambro.png",
+            "summary": "NULL",
+            "profURL": "NULL",
+            "cvTitle": "NULL",
+            "cvURL": "NULL"
+        },
+        {
+            "index": 12,
+            "category": "engineering",
+            "name": "Madhuka Udantha",
+            "designation" : "Software Engineer",
+            "expertise": "Information Technology Engineering",
+            "profImg" : "img/prof/madhuka.jpg",
+            "summary": "He is a Software Engineer with keen interest in new web technologies (HTML5), RESTful web services and mobile application development. During his academic carrier, he worked on several interesting projects, including a GPS/GSM based bus tracking system, contact sharing system and quantum computing. His final year project was an Offline Web Based Mail system that was selected as the winner under the category Software for IT at the National IT exhibition. Madhuka was the Microsoft Student Ambassador for the Faculty of Information Technology, University of Moratuwa (2010-2011) and was also a member of InnoWorks, second runners-up at Imagine Cup 2009 and finalist at Imagine Cup 2010. Madhuka holds Sun certifications in Java programming (SCJP) and Java mobile application development (SCMAD). Madhuka has, more than two years of experience in Open Source developments. Madhuka has several publications in relation to HTML5 offline features. Database based and RESTful system with offline web based clients. He holds a B.Sc (Hons) degree in Information Technology (1st Class) from the Faculty of Information Technology, University of Moratuwa, Sri Lanka.",
+            "profURL": "NULL",
+            "cvTitle": "NULL",
+            "cvURL": "NULL"
+        },
+        {
+            "index": 13,
+            "category": "engineering",
+            "name": "Kasun Perera",
+            "designation" : "Analyst Programmer",
+            "expertise": "Computer Engineering",
+            "profImg" : "img/prof/kasun.jpg",
+            "summary": "Kasun worked as a research assistant and analyst programmer in a voice-enabled emergency data exchange project. The project investigated the use of techniques for interlinking voice and text software system for Sri Lanka. He currently works as a software engineer for Lanka Software Foundation developing web semantic software systems. His research interests include emergency management information systems, social media analysis, and financial ontology modeling. He graduated in 2011 with a BscEng in Computer Science and Engineering from University of Moratuwa. He is also a member of Institute of Engineers Sri Lanka (IESL).",
+            "profURL": "NULL",
+            "cvTitle": "NULL",
+            "cvURL": "NULL"
+        },
+        {
+            "index": 14,
+            "category": "engineering",
+            "name": "Dr.G.Perumal Ph.D (USA)",
+            "designation" : "Director",
+            "expertise": "",
+            "profImg" : "img/prof/Perumal6.jpg",
+            "summary": "The founder of “Mars Data Systems“ has over 20 years of combined experience in Acquiring and Issuing Bank Debit and Credit card industry. Very vast experience in various EFT-POS solutions like Bank card processing, Fleet Petroleum Automations, Loyalty, ePurse, Mobile Topup and Retail automations in the entire Middle East and other part of the world.",
+            "profURL": "NULL",
+            "cvTitle": "NULL",
+            "cvURL": "NULL"
+        }
+        
+    ]
+}
