@@ -1,11 +1,22 @@
 #rotating-item-wrapper {
+<<<<<<< HEAD
     width: 600px;
+=======
+	position: relative;
+	width: 600px;
+>>>>>>> d10b76d465e9f3b85df866cd74322222a235e950
 	height: 200px;
 }
 .rotating-item {
 	display: none;
 	position: absolute;
+<<<<<<< HEAD
 	left: 0;
         margin-left:26px;
 }
 
+=======
+	top: 0;
+	left: 0;
+}
+>>>>>>> d10b76d465e9f3b85df866cd74322222a235e950

@@ -3,7 +3,11 @@ function clear(){
 };
 
 function search(fname, lname, phone){
+<<<<<<< HEAD
     $.getJSON('../pos/data/payees.json', function(data) {
+=======
+    $.getJSON('../pos/data/payee.json', function(data) {
+>>>>>>> d10b76d465e9f3b85df866cd74322222a235e950
     var found = 0;
     var output = "";
 

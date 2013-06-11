@@ -10,7 +10,10 @@ body {
 	background-color: #CCCCCC;
 	font-family: NeoSans, Verdana, Arial, Helvetica, sans-serif;
 	font-size: 10px;
+<<<<<<< HEAD
 
+=======
+>>>>>>> d10b76d465e9f3b85df866cd74322222a235e950
 }
 /*-----------Container holds all the objects, creates the left and right margin----------------------*/
 .container {
@@ -19,7 +22,11 @@ body {
 	background-image: url(../images/main/contentbg.jpg);
 	background-color: #FFFFFF;
 	position: relative;
+<<<<<<< HEAD
 	height: 696px;
+=======
+	height: 600px;
+>>>>>>> d10b76d465e9f3b85df866cd74322222a235e950
 	margin: 0px auto;
 }
 /*----------------------------------Content holds all information on page-------------------------------*/
@@ -39,6 +46,7 @@ a {
     text-decoration: none;
 }
 p {
+<<<<<<< HEAD
 	font-size: 15px;
 	margin: 5px 5px;
 	color: #4D6880;
@@ -64,18 +72,42 @@ h1 {
 	text-align: center;
 	display: block;
         margin-bottom:4px;
+=======
+	font-size: 13px;
+	margin: 5px 5px;
+	color: #4D6880;
+    line-height:16px;
+}
+h1 {
+	background-color: #6386A2;
+	font-size: 16px;
+	margin-top: 2px;
+	padding: 10px;
+	margin-right: 10px;
+	margin-left: 2px;
+	color: #C2EBDD;
+	text-align: center;
+	display: block;
+>>>>>>> d10b76d465e9f3b85df866cd74322222a235e950
 }
 h2 {
     font-size: 14px;
     font-weight: bold;
+<<<<<<< HEAD
     color: #fff;
+=======
+    color: #C2EBDD;
+>>>>>>> d10b76d465e9f3b85df866cd74322222a235e950
     text-align: center;
     display: block;
     margin: 5px 0px;
     background-color: #6386A2;
     padding: 5px;
+<<<<<<< HEAD
 	width:497px;
 	/*width:480px;*/
+=======
+>>>>>>> d10b76d465e9f3b85df866cd74322222a235e950
 }
 h4 {
     color: #4D6880;
@@ -87,12 +119,21 @@ h4 {
 /*---------------------------------------------------------------------------------------------------------------------*/
 #logo {
 	position: absolute;
+<<<<<<< HEAD
 	left: 800px;
 	top: 20px;
 }
 #logo img{
     height: 113px;
     width: 184px;
+=======
+	left: 750px;
+	top: 1px;
+}
+#logo img{
+    height: 120px;
+    width: 200px;
+>>>>>>> d10b76d465e9f3b85df866cd74322222a235e950
 }
 /*----------------------------------------------------------------------------------------------------------------------*/
 /*div that contains the TOP MENU navigation*/
@@ -100,7 +141,11 @@ h4 {
 #menu {
     background-color: #6386A2;
     height:30px;
+<<<<<<< HEAD
     width: 800px;
+=======
+    width: 760px;
+>>>>>>> d10b76d465e9f3b85df866cd74322222a235e950
     float: top;
     margin-top: 1px;
     margin-right: 1px;
@@ -114,6 +159,7 @@ h4 {
     background-position: 0px 145px;
     font-family:neosans;
 }
+<<<<<<< HEAD
 #menu ul.navigation {
 	list-style:none;
 	padding:0;
@@ -149,6 +195,8 @@ h4 {
 	color:#000;
 
 }
+=======
+>>>>>>> d10b76d465e9f3b85df866cd74322222a235e950
 #menu p{
     font-size: 12px;
     color: #FFFFFF;
@@ -173,11 +221,16 @@ h4 {
     border: 1px solid #FFFFFF;
     padding-top: 1px;
     padding-bottom: 1px
+<<<<<<< HEAD
     background-image:url(../images/main/links/bg.jpg);
+=======
+    background-image: url(../images/main/links/bg.jpg);
+>>>>>>> d10b76d465e9f3b85df866cd74322222a235e950
     background-repeat: no-repeat;
     background-position: 0px 145px;
     font-family:neosans; /* remove this if doesn't match rest */
 }
+<<<<<<< HEAD
 
 #submenu ul {
 	list-style: none;
@@ -220,6 +273,8 @@ h4 {
 	background: url(../img/menu-left-hover.gif) no-repeat top left;
 	color:  #4C3386;
 }
+=======
+>>>>>>> d10b76d465e9f3b85df866cd74322222a235e950
 #submenu p{
     font-size: 12px;
     color: #C2EBDD;
@@ -228,6 +283,7 @@ h4 {
 }
 #submenu a{
     font-family:neosans;
+<<<<<<< HEAD
     color: #4D6880; 
     /*padding-left: 20px;*/
     text-align: center;
@@ -239,15 +295,27 @@ h4 {
 }
 #submenu a:hover{
 	color:#a26367;
+=======
+    color: #4D6880; //000066;
+    padding-left: 20px;
+    text-align: center;
+>>>>>>> d10b76d465e9f3b85df866cd74322222a235e950
 }
 
 /*div that contains the links to site navigation*/
 .links {
 	background-color: #6386A2;
+<<<<<<< HEAD
 	height: 519px;
 	width: 150px;
 	float: right;
 	margin-top: 1px;
+=======
+	height: 400px;
+	width: 150px;
+	float: right;
+	margin-top: 5px;
+>>>>>>> d10b76d465e9f3b85df866cd74322222a235e950
 	margin-right: 5px;
 	margin-left: 20px;
 	clear:none;
@@ -258,6 +326,7 @@ h4 {
 	background-position: 0px 145px;
 	font-family:neosans;
 }
+<<<<<<< HEAD
 .contact {
 	background-color: #6386A2;
 	height: auto;
@@ -283,6 +352,9 @@ h4 {
 	margin-top:-90px;
 	font-family:neosans;
 }
+=======
+
+>>>>>>> d10b76d465e9f3b85df866cd74322222a235e950
 .links p{
     color: #ffffff;
     font-size: 14px;
@@ -517,7 +589,11 @@ a.sitemap span{
 /*Text links at bottom of page*/
 #bottomlinks {
 	background-color: #6386A2;
+<<<<<<< HEAD
 	height: 18px;
+=======
+	height: 16px;
+>>>>>>> d10b76d465e9f3b85df866cd74322222a235e950
 	margin: 0px;
 	text-align: center;
 	color: #FFFFFF;
@@ -543,6 +619,7 @@ a.sitemap span{
 .searchbox {
 	height: 17px;
 	width: 100px;
+<<<<<<< HEAD
 }
 
 
@@ -620,3 +697,6 @@ a.sitemap span{
     -moz-box-shadow: 5px 5px 10px 0 rgba(0, 0, 0, 0.5), 0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
     box-shadow: 5px 5px 10px 0 rgba(0, 0, 0, 0.5), 0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
 }
+=======
+}
+>>>>>>> d10b76d465e9f3b85df866cd74322222a235e950

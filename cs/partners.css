@@ -18,8 +18,13 @@
 }
 
 #table img{
+<<<<<<< HEAD
     height: 100px;
     width: 100px;
+=======
+    height: 20px;
+    width: 20px;
+>>>>>>> d10b76d465e9f3b85df866cd74322222a235e950
     margin-top: 0px;
     margin-bottom: 0px;
     margin-left: 5px;
@@ -44,6 +49,7 @@
     margin-bottom: 0px;
     margin-left: 1px;
 }
+<<<<<<< HEAD
 #partner_logos {
     background-color: #fff;
     border: 2px solid #6386A2;
@@ -52,4 +58,6 @@
     margin-left: 1px;
     
 }
+=======
+>>>>>>> d10b76d465e9f3b85df866cd74322222a235e950
 /*------------------------------------------------------------------------------*/

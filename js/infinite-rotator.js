@@ -46,14 +46,18 @@ $(window).load(function() {	//start after HTML, images have loaded
 				    }
     				$('.rotating-item').eq(currentItem).fadeIn(fadeTime);
 	       	}, itemInterval);	
+<<<<<<< HEAD
 			
 			
 			
+=======
+>>>>>>> d10b76d465e9f3b85df866cd74322222a235e950
 		}	
 	};
 
 	InfiniteRotator.init();
 	
+<<<<<<< HEAD
 	//$('.rotating-item').mouseover(function(){
    	//	InfiniteRotator.stop();
 	//});
@@ -67,6 +71,13 @@ $(window).load(function() {	//start after HTML, images have loaded
 $(document).ready(function(){
   $('#rotating-item-wrapper').mouseenter(function(){
 	  $('#rotating-item-wrapper').unbind('.rotating-item');
+=======
+});
+
+$(document).ready(function(){
+  $('#rotating-item-wrapper').mouseenter(function(){
+    $('#rotating-item-wrapper').unbind('.rotating-item');
+>>>>>>> d10b76d465e9f3b85df866cd74322222a235e950
   });
 });
 

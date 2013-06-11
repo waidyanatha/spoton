@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 //var data = {
 //    "demos": [
 //        {
@@ -20,6 +21,28 @@
 function paint(){
     
     $.getJSON('./data/demos.json', function(data) {
+=======
+var data = {
+    "demos": [
+        {
+            "category": "health",
+            "title": "HEADSUP",
+            "summary": "To login to the demo, <b>username=me@demo.lk</b> and <b>password=demo.lk</b> <br> The demo will allow you to add/edit a payee, add the payee to a group. Thereafter, you can use your Androin POS app to send in a transaction, then view the transaction in the History.",
+            "demoURL": "http://www.samanathetha.lk/sahana-demo",
+            "imgURL": "img/prod/four_tech.jpg"
+        },
+        {
+            "category": "POS",
+            "title": "POS-on-da-SPOT",
+            "summary": "To login to the demo, <b>username=me@demo.lk</b> and <b>password=demo.lk</b> <br> The demo will allow you to add/edit a payee, add the payee to a group. Thereafter, you can use your Androin POS app to send in a transaction, then view the transaction in the History.",
+            "demoURL": "demo/pos/index.htm",
+            "imgURL": "img/prod/pos.png"
+        }
+    ]
+}
+
+function paint(){
+>>>>>>> d10b76d465e9f3b85df866cd74322222a235e950
     var output = "";
     var c = 2;
     var ub=Math.ceil(data.demos.length/c);
@@ -45,6 +68,9 @@ function paint(){
         output += "</tr></table>";
     }
     document.getElementById("demo").innerHTML=output;
+<<<<<<< HEAD
     });
+=======
+>>>>>>> d10b76d465e9f3b85df866cd74322222a235e950
 };
 

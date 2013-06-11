@@ -24,6 +24,7 @@
 }
 /*----------------------------------------------*/
 #col1body{
+<<<<<<< HEAD
 	width: 412px;
 	float: left;
 	border: 1px solid #FFFFFF;
@@ -39,6 +40,18 @@
 #col1body p{
 	font-size: 14px;
 	line-height:130%
+=======
+	width: 300px;
+	float: left;
+	border: 1px solid #FFFFFF;
+	background-color: #DAC9D6;
+	height: 350px;
+	padding: 0px;
+	}
+#col1body p{
+	font-size: 15px;
+	line-height:150%
+>>>>>>> d10b76d465e9f3b85df866cd74322222a235e950
 }
 #col1body h3{
 	background-color:#AA86A2;
@@ -75,11 +88,19 @@
 }
 /*----------------------------------------------*/
 #col2body {
+<<<<<<< HEAD
 	width: 407px;
 	border: 1px solid #FFFFFF;
 	background-color: #D1E7E0;
 	float: right;
 	height: 396px;
+=======
+	width: 500px;
+	border: 1px solid #FFFFFF;
+	background-color: #D1E7E0;
+	float: left;
+	height: 350px;
+>>>>>>> d10b76d465e9f3b85df866cd74322222a235e950
 	}
 
 #col2body p{
@@ -87,11 +108,19 @@
 	margin-left: 1px;
 }
 #col2body img {
+<<<<<<< HEAD
 	height: 340px;
 	width: 381px;
 	margin-top: 0px;
 	margin-bottom: 0px;
 	margin-left: 13px;
+=======
+	height: 250px;
+	width: 490px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 1px;
+>>>>>>> d10b76d465e9f3b85df866cd74322222a235e950
 }
 
 /*-------------- TABLE FORMATTING ----------------------------------------------*/
@@ -124,9 +153,12 @@
 #table span{text-decoration: underline;}
 
 /*------------------------------------------------------------------------------*/
+<<<<<<< HEAD
 
 
 .titles{
     margin: 5px;
     margin-top: -10px
 }
+=======
+>>>>>>> d10b76d465e9f3b85df866cd74322222a235e950

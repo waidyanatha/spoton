@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
     payees: [
+=======
+    "payees": [
+>>>>>>> d10b76d465e9f3b85df866cd74322222a235e950
         {
             "group": "Distributor",
             "uuid": "D100001",

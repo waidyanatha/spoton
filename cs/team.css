@@ -125,12 +125,16 @@
     padding-top: 0px;
     padding-bottom: 1px;
     line-height:20px;
+<<<<<<< HEAD
     margin-top: -12px;
+=======
+>>>>>>> d10b76d465e9f3b85df866cd74322222a235e950
 }
 
 #large img{
     height: 100px;
     width: 100px;
+<<<<<<< HEAD
     margin-top: 50px;
     margin-bottom: -44px;
     margin-left: 1px;
@@ -212,3 +216,10 @@
 {
     display: inline-block;
 }
+=======
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 1px;
+}
+/*------------------------------------------------------------------------------*/
+>>>>>>> d10b76d465e9f3b85df866cd74322222a235e950
